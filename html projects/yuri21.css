@@ -1,0 +1,25 @@
+body {
+  background-image: url("https://codetheweb.blog/assets/img/posts/css-advanced-background-images/mountains.jpg");
+}
+body {
+  background-position: 50%;
+  background-repeat: auto;
+  background-size: cover;
+}
+
+.para {
+  display: flex;
+  flex-direction: column;
+  height: 3rem;
+  margin: 0;
+  line-height: 2em;
+  padding: 10px;
+  font-size: large;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+h1 {
+  padding-top: 10px;
+  display: flex;
+  margin: 10px;
+}
